@@ -4,6 +4,8 @@ This software is associated with a forthcoming publication:
 
 Davies, B., Romanowska, I., Harris, K., and S. Crabtree, In press. Combining Geographic Information Systems and Agent-Based Models in Archaeology: A step-by-step guide for using agent-based modeling in archaeological research (Part II of III). Accepted to Advances in Archaeological Practice.
 
+Link to stable release: [![DOI](https://zenodo.org/badge/131584168.svg)](https://zenodo.org/badge/latestdoi/131584168)
+
 The “dem.asc” dataset used in this example is an ASCII raster extracted from tile n34w119 of the USGS National Elevation Dataset (http://nationalmap.gov), centered on Santa Catalina Island, California. The “quarries.shp” dataset is a shapefile of simulated quarry locations.
 
 ## ABOUT THE MODEL
