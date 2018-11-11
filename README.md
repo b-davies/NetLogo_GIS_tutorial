@@ -1,4 +1,4 @@
-# NetLogo_GIS_tutorial_v1
+# NetLogo_GIS_tutorial_v1.2
 
 This software is associated with a forthcoming publication:
 
