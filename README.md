@@ -7,6 +7,10 @@ Davies, B., Romanowska, I., Harris, K., and S. Crabtree, In press. Combining Geo
 The stable release can be downloaded as a zip here: 
 [![DOI](https://zenodo.org/badge/131584168.svg)](https://zenodo.org/badge/latestdoi/131584168)
 
+The “dem.asc” dataset used in this example is an ASCII raster extracted from tile n34w119 of the USGS National Elevation Dataset (http://nationalmap.gov), centered on Santa Catalina Island, California. The “quarries.shp” dataset is a shapefile of simulated quarry locations.
+
+## ABOUT THE MODEL
+
 This is a model used in Davies et al. (2019) based on the work of This work draws on a neutral model of stone procurement by Brantingham (2003), and builds directly on work developed in Romanowska et al. (2019).
 
 ## HOW IT WORKS
